@@ -1,7 +1,7 @@
 # HPC-Stack: A Slurm-Powered Cloud HPC Solution with GPU Support on Local Machines  
 
 ## Introduction  
-This project sets up a flexible and cost-effective High-Performance Computing (HPC) cluster using Slurm in Docker containers. The Slurm controller runs on the cloud, while GPU workloads are handled by local on-premises machines. With AWS and Grafana, it ensures efficient resource management and real-time monitoring.  
+This project sets up a flexible and cost-effective High-Performance Computing (HPC) cluster using Slurm in Docker containers. The Slurm controller runs on the cloud, while GPU workloads are handled by local on-premises machines. With AWS and Grafana,it ensures efficient resource management and real-time monitoring.  
 
 ## Key Objectives  
 - **Easy Deployment:** Quickly set up an HPC cluster with containerized Slurm.  
